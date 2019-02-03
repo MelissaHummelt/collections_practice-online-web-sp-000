@@ -32,3 +32,7 @@ def find_a(array)
     x.start_with?("a")
   end
 end
+
+def sum_array(array)
+  array.
+end
